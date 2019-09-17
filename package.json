@@ -1,0 +1,12 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --out-dir bin --open"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-json-url-loader": "^0.1.2",
+    "parcel-plugin-static-files-copy": "^2.2.1",
+    "typescript": "^3.6.2"
+  }
+}
